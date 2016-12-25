@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW_7</string>
+    <string name="start">Start</string>
+    <string name="test">Test</string>
+    <string name="START">Зачекайте</string>
+    <string name="FINISH">Готово</string>
+</resources>
